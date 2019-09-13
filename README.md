@@ -66,5 +66,5 @@ the information we have is as follows:
   - *CQL Query*: 
          
          SELECT firstName, lastName 
-         FROM app_history 
+         FROM user_history 
          WHERE song = 'All Hands Against His Own'
