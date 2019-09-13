@@ -59,7 +59,7 @@ the information we have is as follows:
          
          
 ## Query 3
-  ** Give me every user name (first and last) in my music app history who listened to the song 'All Hands Against His Own'**
+  **Give me every user name (first and last) in my music app history who listened to the song 'All Hands Against His Own'**
   - *Table name*: user_history
   -  *Columns* : song, firstName, lastName and userId.
   - *Primary Key* : Partition Key "song" and clustering key "userId"
